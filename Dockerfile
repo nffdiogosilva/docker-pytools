@@ -1,4 +1,4 @@
-FROM python:3.8-buster
+FROM python:3.7-stretch
 
 LABEL maintainer="Nuno Diogo da Silva <diogosilva.nuno@gmail.com>"
 
